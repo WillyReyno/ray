@@ -25,7 +25,7 @@ To use [the WordPress specific capabilities of Ray](https://spatie.be/docs/ray/v
 
 ## Manually cloning the repo
 
-Inside the `wp-contents/plugins` directory run this command
+Inside the `wp-content/plugins` directory run this command
 
 ```bash
 git clone git@github.com:spatie/wordpress-ray
